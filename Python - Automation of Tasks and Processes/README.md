@@ -1,3 +1,0 @@
-- Studies about automation of tasks and processes
-- Manual stuff is boring so, why not automated them?
-- This will later be turned into a project!
