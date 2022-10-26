@@ -2,7 +2,7 @@
 from moviepy.editor import *
 import random
 
-gif = (VideoFileClip("Nahida and Aranara Dancing" + '.mp4'))
+gif = (VideoFileClip("rikka" + '.mp4'))
 gif.write_gif(f"./gifs/{random.randint(0, 16777215)}.gif")
 print('done.')
 
